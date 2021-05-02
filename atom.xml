@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://tutouer.github.io/atom.xml" rel="self"/>
+  <link href="https://tutouer.github.io/blog.github.io/atom.xml" rel="self"/>
   
-  <link href="https://tutouer.github.io/"/>
+  <link href="https://tutouer.github.io/blog.github.io/"/>
   <updated>2021-05-02T03:23:59.542Z</updated>
-  <id>https://tutouer.github.io/</id>
+  <id>https://tutouer.github.io/blog.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://tutouer.github.io/2021/05/02/hello-world/"/>
-    <id>https://tutouer.github.io/2021/05/02/hello-world/</id>
+    <link href="https://tutouer.github.io/blog.github.io/2021/05/02/hello-world/"/>
+    <id>https://tutouer.github.io/blog.github.io/2021/05/02/hello-world/</id>
     <published>2021-05-02T03:23:59.542Z</published>
     <updated>2021-05-02T03:23:59.542Z</updated>
     
