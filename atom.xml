@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>你看起来很好吃</title>
   
-  
+  <subtitle>你看起来很好吃</subtitle>
   <link href="https://tutouer.github.io/blog.github.io/atom.xml" rel="self"/>
   
   <link href="https://tutouer.github.io/blog.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://tutouer.github.io/blog.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Tutouer</name>
     
   </author>
   
